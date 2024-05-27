@@ -2,7 +2,7 @@
 Sample API server and sample CLI tests using curl tool (on linux).
 
 
-### STEP_01 (Clone repository and Install pakages)
+### STEP_01 (Clone repository and install pakages)
 ```
 git clone https://github.com/hani86400/quick_api.git
 
